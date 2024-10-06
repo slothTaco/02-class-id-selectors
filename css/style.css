@@ -1,8 +1,29 @@
 /*style CSS */
 
-.alert-text {
-    background-color: #ffe6f2:
+p {
+
+    background: #ffe6ff;
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+
+    
 }
 
+#second-elemant {
+
+    color: #b3d1ff;
+    font-size: 36px;
+}
+
+.third-elemant {
+
+    Font-size: 24px;
+}
+
+#fourth-elemant {
+
+    background-color: #ccffcc;
+    font-size: 24px;
+    font-weight: 700; 
+}
 
 
